@@ -1,0 +1,40 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Meike Morren and co-authors
+
+WHAT THIS COVERS
+
+Everything in this repository that is not code, namely:
+
+  Input/Photos/                photographs of the plates
+  Input/PromptAnswers/         raw GPT-4o responses
+  Input/*.xlsx, Input/*.csv    plate metadata, ingredients, conversion table
+  Output/Data/                 prepared datasets
+  Output/Figures/              figures
+  Output/Tables/               tables
+
+The code in Code/ is licensed under the MIT License instead; see LICENSE.
+
+WHAT YOU MAY DO
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+The full legal text is at https://creativecommons.org/licenses/by/4.0/legalcode
+and a plain-language summary at https://creativecommons.org/licenses/by/4.0/
+
+HOW TO ATTRIBUTE
+
+  Morren, M. et al. (2026). Data and materials for "AI to the Rescue: A Novel
+  Approach to Measure Plate Leftovers". Licensed under CC BY 4.0.
+
+THIRD-PARTY MATERIAL
+
+The recipes and ingredient lists in Input/ingredients_study2.xlsx derive from
+HelloFresh recipe cards used in the study. They are reproduced here as factual
+information needed to reproduce the analysis; rights in the underlying recipe
+content remain with HelloFresh and are not licensed by this file.
+
+The consumer data used in Study 1 are under embargo from HelloFresh and are not
+included in this repository.
